@@ -3,7 +3,7 @@
 An interactive, modern web dashboard for tracking and visualizing personal spending, built with Python, Panel, HoloViews, and Pandas.
 
 ![Dashboard Screenshot](Finance1.png)
-
+![Dashboard Screenshot](Fincance2.png)
 ## Features
 
 - Interactive filters: date range and category multi-select
