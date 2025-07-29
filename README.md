@@ -12,29 +12,6 @@ An interactive, modern web dashboard for tracking and visualizing personal spend
 - Responsive, modern design with sidebar navigation
 - Easy to customize and extend
 
-## Installation
-
-1. Clone the repo:
-   ```
-   git clone https://github.com/yourusername/financedash.git
-   cd financedash
-   ```
-
-2. Install dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
-
-3. Run the dashboard:
-   ```
-   panel serve your_dashboard_file.py
-   ```
-   or, if using a notebook:
-   ```
-   panel serve your_dashboard_file.ipynb
-   ```
-
-4. Open the provided local URL in your browser.
 
 ## Requirements
 
@@ -45,9 +22,6 @@ An interactive, modern web dashboard for tracking and visualizing personal spend
 - pandas
 - numpy
 
-## License
-
-[MIT](LICENSE)
 
 ## Acknowledgements
 
